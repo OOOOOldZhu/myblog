@@ -1,4 +1,4 @@
-# micblog
+# myblog
 JSP/Servlet/Javabean开发的一个简陋的微博<br>
 已经把这个小项目部署到服务器，请前往
 //2017年9月8日<br>
