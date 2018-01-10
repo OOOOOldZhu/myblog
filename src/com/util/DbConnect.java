@@ -14,6 +14,10 @@ public class DbConnect {
 		final String USER = "root";
 		final String PASS = "563421a_";
 		
+		// 本地Macmysql的配置
+//		final String DB_URL = "jdbc:mysql://127.0.0.1:3306/z";
+//		final String USER = "root";
+//		final String PASS = "rootroot";
 		try {
 			Class.forName(JDBC_DRIVER);
 			conn = DriverManager.getConnection(DB_URL, USER, PASS);
