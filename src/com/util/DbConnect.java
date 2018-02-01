@@ -10,7 +10,7 @@ public class DbConnect {
 	//连接数据库
 	public void getConnection() {
 		final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-		final String DB_URL = "jdbc:mysql://127.0.0.1:3306/z";
+		final String DB_URL = "jdbc:mysql://116.196.95.87:3306/z";
 		final String USER = "root";
 		final String PASS = "563421a_";
 		
